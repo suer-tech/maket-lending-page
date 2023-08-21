@@ -1,0 +1,7 @@
+body {
+    min-width: 2500px;
+}
+
+.control, .types, .fantasies, .clients, .form, .contacts, .footer {
+    display: none;
+}
